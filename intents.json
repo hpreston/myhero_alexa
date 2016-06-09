@@ -1,0 +1,38 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "Welcome"
+    },
+    {
+      "intent": "Options"
+    },
+    {
+      "intent": "Results"
+    },
+    {
+      "intent": "Vote",
+      "slots": [
+        {
+          "name": "superhero",
+          "type": "superhero"
+        }
+        ]
+    }
+    ]
+}
+

@@ -1,0 +1,23 @@
+Welcome hello
+Welcome start
+
+Options what are the options
+Options options
+Options who can I vote for
+Options can I vote for
+
+Results results
+Results standings
+Results what are the results
+Results what are the standings
+Results what are the current results
+Results what are the current standings
+Results who is winning
+Results how many votes
+
+Vote place a vote for {superhero}
+Vote I'd like to vote for {superhero}
+Vote please record a vote for {superhero}
+Vote vote {superhero}
+Vote vote for {superhero}
+Vote {superhero}
