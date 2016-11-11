@@ -345,10 +345,9 @@ def no_more(intent, session):
 # ---------------- Functions to generate needed information --------------------
 # Utilities to interact with the MyHero-App Server
 def get_results():
-    u = app_server + "/results"
+    u = app_server + "/v2/results"
     page = requests.get(u, headers = app_headers)
     tally = page.json()
-    tally = sorted(tally.items(), key = lambda (k,v): v, reverse=True)
     return tally
 
 def get_options():
